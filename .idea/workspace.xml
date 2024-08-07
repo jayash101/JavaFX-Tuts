@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f76552b6-8d82-4bd8-b09f-1e3b25f2dd4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jayash/javafxproject/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jayash/javafxproject/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jayash/javafxproject/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jayash/javafxproject/layouts/flowpane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/jayash/javafxproject/hello-view.fxml" afterDir="false" />
+    <list default="true" id="f76552b6-8d82-4bd8-b09f-1e3b25f2dd4c" name="Changes" comment="javafx project tutorials">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jayash/javafxproject/layouts/hbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jayash/javafxproject/layouts/hbox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jayash101"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jayash101/JavaFX-Tuts",
+    "accountId": "8ffbe15c-d64a-4276-88ca-5ed9f541492f"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -71,7 +68,7 @@
       <recent name="com.jayash.javafxproject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.flowpane">
+  <component name="RunManager" selected="Application.hbox">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jayash.javafxproject.HelloApplication" />
       <module name="JavaFX-Project" />
@@ -98,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hbox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jayash.javafxproject.layouts.hbox" />
+      <module name="JavaFX-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jayash.javafxproject.layouts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JavaFX Project" />
       <method v="2">
@@ -113,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hbox" />
         <item itemvalue="Application.flowpane" />
         <item itemvalue="Application.HelloApplication" />
       </list>
@@ -127,6 +138,38 @@
       <option name="presentableId" value="Default" />
       <updated>1723035016458</updated>
     </task>
+    <task id="LOCAL-00001" summary="javafx project tutorials">
+      <option name="closed" value="true" />
+      <created>1723039428159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723039428160</updated>
+    </task>
+    <task id="LOCAL-00002" summary="javafx project tutorials">
+      <option name="closed" value="true" />
+      <created>1723039555496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723039555496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="javafx project tutorials" />
+    <option name="LAST_COMMIT_MESSAGE" value="javafx project tutorials" />
   </component>
 </project>
