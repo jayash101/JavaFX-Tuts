@@ -66,6 +66,11 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jayash.javafxproject" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.flowpane">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jayash.javafxproject.HelloApplication" />
